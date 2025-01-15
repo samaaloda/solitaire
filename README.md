@@ -1,6 +1,6 @@
 # Solitaire
 
-## **Description: **
+## **Description:**
 The game consists of a foundation, tableau, and stock pile. The objective is to 
 organizeall cards on the foundation in ascending order (A,2,3,4,5,6,7,8,9,10,A,Q,J,K) by 
 their respective symbol. You can move cards from and to foundation to main, however players can
